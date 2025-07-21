@@ -25,20 +25,15 @@ This repository serves as a record of my PHP learning journey, allowing me to tr
 ### Step 2: Clone the Repository 📂
 1. Open your terminal or command prompt.
 2. Navigate to the htdocs directory in your XAMPP installation (usually C:\xampp\htdocs on Windows or Applications/XAMPP/xamppfiles/htdocs on Mac).
-3. Clone the repository using Git: git clone https://github.com/your-username/your-repo-name.git (replace with your actual repository URL).
+3. Clone the repository using Git: git clone https://github.com/DevendraKumar-JAJ/PHP___.git
 
 ### Step 3: Access the PHP Files 🌐
-1. Open a web browser and navigate to http://localhost/your-repo-name (replace with your actual repository name).
+1. Open a web browser and navigate to https://github.com/DevendraKumar-JAJ/PHP___.git
 2. You should see a list of PHP files and directories.
 3. Click on a file to view it in your browser.
 
 ### Step 4: Configure Database Connection 🔗
 1. Update the database connection settings in each PHP file to match your database credentials.
-
-### Step 5: Access the PHP Files 🌐
-1. Open a web browser and navigate to http://localhost/your-repo-name (replace with your actual repository name).
-2. You should see a list of PHP files and directories.
-3. Click on a file to view it in your browser
 
 ### Learning Resources 📚
 

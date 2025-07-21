@@ -1,0 +1,28 @@
+
+PHP Basics
+1. Write a PHP script to print "Hello, World!" to the screen.
+2. Create a PHP variable and assign it a value. Then, print the value to the screen.
+3. Write a PHP script to calculate the sum of two numbers.
+4. Create a PHP array and print its elements to the screen.
+5. Write a PHP script to check if a variable is set or not.
+
+PHP Control Structures
+6. Write a PHP script to use an if-else statement to check if a number is even or odd.
+7. Create a PHP script to use a switch statement to display the day of the week.
+8. Write a PHP script to use a while loop to print numbers from 1 to 10.
+9. Create a PHP script to use a for loop to print numbers from 1 to 10.
+10. Write a PHP script to use a foreach loop to print the elements of an array.
+
+PHP Functions
+11. Write a PHP function to calculate the area of a rectangle.
+12. Create a PHP function to check if a string is empty or not.
+13. Write a PHP function to convert a string to uppercase.
+14. Create a PHP function to calculate the sum of an array of numbers.
+15. Write a PHP function to check if a number is prime or not.
+
+PHP Cookies|Session|DB|formMethod
+16. Create 2 seprate php file to set, read cookies.
+17. Create 3 seprate file to set session, destroy session, use session.
+18. Crearte a from and store user name, gender, DOB in db.
+19. Crearte a from send data through post method and show on screen
+20. Crearte a from send data through get method and show on creen

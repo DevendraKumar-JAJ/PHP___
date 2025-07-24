@@ -1,0 +1,24 @@
+<!-- 18. Crearte a from and store user name, gender, DOB in db.  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Form</title>
+</head>
+  <body>
+    <form action="./writeDb.php" method="post">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required><br>
+      <label for="dob">DOB:</label>
+      <input type="date" id="dob" required name="dob"><br>
+      <label for="">Gender:</label>
+      <input type="radio" name="gen" value="male" id="male" checked required>
+      <label for="male">Male</label>
+      <input type="radio" name="gen" value="female" id="female" required>
+      <label for="female">Female</label>
+      <input type="radio" name="gen" value="other" id="ot" required>
+      <label for="ot">Other</label><br>
+      <button type="submit">Submit</button>
+      <button type="reset">Clear</button>
+    </form>
+  </body>
+</html>
